@@ -2,7 +2,7 @@
 
 **Organization:** Liquid Galaxy  
 **Program:** Google Summer of Code 2026  
-**Contributor:** Sandesh Anand  
+
 
 ## 📌 About This Repository
 This repository contains a functional Proof of Concept (PoC) for the **LG Quick Control & Status Widgets** project. 
