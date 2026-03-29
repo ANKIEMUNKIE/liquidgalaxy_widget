@@ -18,9 +18,9 @@ By proving this architecture works, the main 90-hour coding period can be safely
 4. **SSH Execution & Shared Storage:** Integrated `dartssh2` to securely pull saved Master rig credentials from Android `SharedPreferences` and execute shell commands (e.g., `echo '' > /tmp/query.txt`) directly on the rig.
 
 ## 📸 Visual Proof
-![alt text](<WhatsApp Image 2026-03-22 at 02.07.40.jpeg>)
+![alt text](s1.jpeg)  ![alt text](s2.jpeg) 
 
-*(Drag and drop your screenshot of the VS Code terminal showing the "PoC SUCCESS" and SSH logs here! Delete this text once the image appears.)*
+![alt text](<Screenshot 2026-03-30 001747.png>)
 
 ## 📂 Key Project Files
 For mentors reviewing the code, the core logic mapping the Native-to-Flutter bridge can be found in these specific files:
